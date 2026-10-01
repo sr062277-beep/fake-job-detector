@@ -6,7 +6,7 @@
 
 A machine-learning tool that reads a job posting and estimates how likely it is to be a **scam**. It combines **NLP (TF-IDF)**, **rule-based red-flag detection** and a **logistic regression** classifier, and explains *why* a posting looks suspicious.
 
-**Author:** Raj Verma (25MIM10221), Integrated M.Tech AI, VIT Bhopal University
+
 **Course project:** VITyarthi
 
 ---
