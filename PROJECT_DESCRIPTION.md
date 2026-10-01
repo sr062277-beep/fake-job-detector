@@ -1,7 +1,7 @@
 # Project Description
 
 **Title:** Fake Job Posting Detector (NLP and Machine Learning)
-**Student:** Raj Verma | **Reg. No.:** 25MIM10221
+
 **Programme:** Integrated M.Tech Artificial Intelligence, VIT Bhopal University
 **Platform:** VITyarthi
 
