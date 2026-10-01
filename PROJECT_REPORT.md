@@ -1,6 +1,6 @@
 # Fake Job Posting Detector: Project Report
 
-**Student:** Raj Verma  **Reg. No.:** 25MIM10221
+
 **Programme:** Integrated M.Tech Artificial Intelligence, VIT Bhopal University
 **Platform:** VITyarthi  **Date:** September 2026
 
